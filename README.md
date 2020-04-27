@@ -37,3 +37,5 @@ TODO List:
 - Add validation that the pandora login works instead of assuming it does
 - hot keys: http://i.imgur.com/ea9qQwN.png
 - Add preference option to change between VLC and Gst backends
+- Detect 32 or 64 bit for windows to get correct vlc player
+- Port from python 2 to Python 3
